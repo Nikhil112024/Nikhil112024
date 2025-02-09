@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠 Skills</h2>
 
 ###
 
@@ -43,5 +43,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
+JavaScript (JS),
+React.js,
+Node.js,
+Firebase,
+Anaconda,
+Python,
+OpenCV,
+TensorFlow,
+C++,
+Unity,
+Git,
+MySQL,
 ###
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nikhil-kumar-six.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://nikhil-kumar-six.vercel.app/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Nikhil112024)
+
+
+## Support
+
+For support, email nikhilkumar112024@gmail.com or join our Slack channel.
+
+
